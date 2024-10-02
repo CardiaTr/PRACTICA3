@@ -1,0 +1,13 @@
+////////Bienvenid@ a esta página web sencilla :D disfruta de esta experiencia////////
+
+1]Para comenzar tendrás a la vista un campo y un solo botón llamado "Agregar tarea"
+2]En el campo puedes escribir cualquier tarea que necesites como por ejemplo "Darle de comer a gato"
+3]Una vez ya tengas escrita tu tarea presiona el botón "Agregar tarea"
+4]Visualiza si tu tarea se guardo de forma correcta, esto lo sabrás si la estas visualizando después de presionar el botón
+5]Una vez hayas cumplido tu tarea presiona el texto de la tarea que escribiste
+6]Veras como esta se tachara 
+7]Si ya no necesitas ver esa tarea presiona el botón "Eliminar" y esta tarea será eliminada
+
+
+NOTA: Agrega todas las actividades que necesites :D
+
